@@ -1,4 +1,9 @@
 /* Themify Customize Styling */
+h1 {	
+	font-family:Open Sans;	font-weight:bold;
+	font-size:80px;
+ 
+}
 #headerwrap {	
 	background-color: #f8f8ff; 
 }

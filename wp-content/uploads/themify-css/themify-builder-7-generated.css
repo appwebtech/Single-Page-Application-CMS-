@@ -1,0 +1,30 @@
+/* .themify_builder_7_row.module_row_0 Style */
+.themify_builder_7_row.module_row_0.module_row {
+	background-image: url(http://localhost:8888/Parallax/wp-content/uploads/2017/01/bg_1.jpg);
+	text-align: center;
+	color: #fc5f41;
+	padding-top : 17.5%;
+	padding-bottom : 17.5%
+}
+.themify_builder_7_row.module_row_0.module_row h1 {
+	color: #fc5f41
+}
+.themify_builder_7_row.module_row_0.module_row h2 {
+	color: #fc5f41
+}
+.themify_builder_7_row.module_row_0.module_row h3:not(.module-title) {
+	color: #fc5f41
+}
+.themify_builder_7_row.module_row_0.module_row h4 {
+	color: #fc5f41
+}
+.themify_builder_7_row.module_row_0.module_row h5 {
+	color: #fc5f41
+}
+.themify_builder_7_row.module_row_0.module_row h6 {
+	color: #fc5f41
+}
+
+.themify_builder .text-7-0-0-2.module-text { font-size: 24px; margin-top: -2%;  } 
+.themify_builder .buttons-7-0-0-3 .module-buttons .module-buttons-item a { background-color: #000000; background-color: rgba(0,0,0, 0.00); color: #ffffff; border-top-color: #ffffff; border-top-width: 2px; border-top-style: solid; border-right-color: #ffffff; border-right-width: 2px; border-right-style: solid; border-bottom-color: #ffffff; border-bottom-width: 2px; border-bottom-style: solid; border-left-color: #ffffff; border-left-width: 2px; border-left-style: solid;  } 
+.themify_builder .buttons-7-0-0-3 .module-buttons .module-buttons-item a:hover { background-color: #ffffff; color: #3b3b3b;  } 
