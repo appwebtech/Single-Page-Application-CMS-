@@ -71,3 +71,10 @@ background: linear-gradient(180deg,rgba(0, 0, 0, 0.36) 0%, rgba(255, 255, 255, 0
 .themify_builder .feature-7-sub_row_3-0-2-1-0.module-feature a:hover { color: #3b3b3b;  } 
 .themify_builder .feature-7-sub_row_3-0-2-2-0.module-feature a { color: #fc5e40; text-decoration: none;  } 
 .themify_builder .feature-7-sub_row_3-0-2-2-0.module-feature a:hover { color: #3b3b3b;  } 
+/* .themify_builder_7_row.module_row_4 Style */
+.themify_builder_7_row.module_row_4.module_row {
+	text-align: center;
+	padding-top : 5%;
+	padding-bottom : 2%
+}
+
