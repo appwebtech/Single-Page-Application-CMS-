@@ -78,3 +78,16 @@ background: linear-gradient(180deg,rgba(0, 0, 0, 0.36) 0%, rgba(255, 255, 255, 0
 	padding-bottom : 2%
 }
 
+/* .themify_builder_7_row.module_row_5 Style */
+.themify_builder_7_row.module_row_5.module_row {
+	background-image: url(http://localhost:8888/Parallax/wp-content/uploads/2017/01/video_bg.jpg);
+	padding-top : 6%;
+	padding-bottom : 3%
+}
+.themify_builder_7_row.module_row_5.module_row>.builder_row_cover {
+	background:rgba(0,0,0, 0.22)
+}
+.themify_builder_7_row.module_row_5.module_row>.builder_row_cover:before {
+	background:rgba(0,0,0, 0.65)
+}
+
