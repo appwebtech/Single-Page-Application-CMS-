@@ -91,6 +91,11 @@ background: linear-gradient(180deg,rgba(0, 0, 0, 0.36) 0%, rgba(255, 255, 255, 0
 	background:rgba(0,0,0, 0.65)
 }
 
+/* .themify_builder_7_row.module_row_6 Style */
+.themify_builder_7_row.module_row_6.module_row {
+	text-align: center
+}
+
 .themify_builder .post-7-6-0-2.module-post .post { text-align: center; padding-top: 5%; padding-bottom: 2%;  } 
 /* .themify_builder_7_row.module_row_7 Style */
 .themify_builder_7_row.module_row_7.module_row {
@@ -125,7 +130,6 @@ background: linear-gradient(180deg,rgba(0, 0, 0, 0.36) 0%, rgba(255, 255, 255, 0
 	background:rgba(0,0,0, 0.28)
 }
 
-.themify_builder .text-7-7-0-1.module-text { text-align: center;  } 
 .themify_builder .icon-7-sub_row_7-0-2-0-0div.module-icon { color: #fc5e40;  } 
 .themify_builder .icon-7-sub_row_7-0-2-1-0div.module-icon { color: #fc5e40;  } 
 .themify_builder .icon-7-sub_row_7-0-2-2-0div.module-icon { color: #fc5e40;  } 
