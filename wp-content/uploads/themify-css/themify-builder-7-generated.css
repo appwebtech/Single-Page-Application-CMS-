@@ -91,5 +91,18 @@ background: linear-gradient(180deg,rgba(0, 0, 0, 0.36) 0%, rgba(255, 255, 255, 0
 	background:rgba(0,0,0, 0.65)
 }
 
-.themify_builder .text-7-6-0-1.module-text { text-align: center;  } 
 .themify_builder .post-7-6-0-2.module-post .post { text-align: center; padding-top: 5%; padding-bottom: 2%;  } 
+/* .themify_builder_7_row.module_row_7 Style */
+.themify_builder_7_row.module_row_7.module_row {
+	background-image: url(http://localhost:8888/Parallax/wp-content/uploads/2017/01/bg3-1.jpg);
+	padding-top : 10%;
+	padding-bottom : 10%
+}
+.themify_builder_7_row.module_row_7.module_row>.builder_row_cover {
+	background:rgba(0,0,0, 0.21)
+}
+.themify_builder_7_row.module_row_7.module_row>.builder_row_cover:before {
+	background:rgba(0,0,0, 0.28)
+}
+
+.themify_builder .text-7-7-0-1.module-text { text-align: center;  } 
