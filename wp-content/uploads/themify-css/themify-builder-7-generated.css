@@ -91,3 +91,5 @@ background: linear-gradient(180deg,rgba(0, 0, 0, 0.36) 0%, rgba(255, 255, 255, 0
 	background:rgba(0,0,0, 0.65)
 }
 
+.themify_builder .text-7-6-0-1.module-text { text-align: center;  } 
+.themify_builder .post-7-6-0-2.module-post .post { text-align: center; padding-top: 5%; padding-bottom: 2%;  } 
