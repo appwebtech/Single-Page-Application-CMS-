@@ -95,8 +95,28 @@ background: linear-gradient(180deg,rgba(0, 0, 0, 0.36) 0%, rgba(255, 255, 255, 0
 /* .themify_builder_7_row.module_row_7 Style */
 .themify_builder_7_row.module_row_7.module_row {
 	background-image: url(http://localhost:8888/Parallax/wp-content/uploads/2017/01/bg3-1.jpg);
+	text-align: center;
+	color: #ffffff;
 	padding-top : 10%;
 	padding-bottom : 10%
+}
+.themify_builder_7_row.module_row_7.module_row h1 {
+	color: #ffffff
+}
+.themify_builder_7_row.module_row_7.module_row h2 {
+	color: #ffffff
+}
+.themify_builder_7_row.module_row_7.module_row h3:not(.module-title) {
+	color: #ffffff
+}
+.themify_builder_7_row.module_row_7.module_row h4 {
+	color: #ffffff
+}
+.themify_builder_7_row.module_row_7.module_row h5 {
+	color: #ffffff
+}
+.themify_builder_7_row.module_row_7.module_row h6 {
+	color: #ffffff
 }
 .themify_builder_7_row.module_row_7.module_row>.builder_row_cover {
 	background:rgba(0,0,0, 0.21)
@@ -106,3 +126,6 @@ background: linear-gradient(180deg,rgba(0, 0, 0, 0.36) 0%, rgba(255, 255, 255, 0
 }
 
 .themify_builder .text-7-7-0-1.module-text { text-align: center;  } 
+.themify_builder .icon-7-sub_row_7-0-2-0-0div.module-icon { color: #fc5e40;  } 
+.themify_builder .icon-7-sub_row_7-0-2-1-0div.module-icon { color: #fc5e40;  } 
+.themify_builder .icon-7-sub_row_7-0-2-2-0div.module-icon { color: #fc5e40;  } 
