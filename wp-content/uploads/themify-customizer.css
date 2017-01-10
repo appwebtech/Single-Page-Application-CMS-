@@ -14,7 +14,13 @@ h2 {
 	color: #4d4d4d; 
 }
 #headerwrap {	
-	background-color: #f8f8ff; 
+	background-color: #7d7a77; 
+}
+#header {	
+	color: rgba(125,143,123,0.78); 
+}
+#headerwrap.fixed-header, .transparent-header #headerwrap.fixed-header {	
+	background-color: rgba(125,121,118,0.51); 
 }
 #site-description {	display: none; 
 }
@@ -40,5 +46,14 @@ h2 {
 	color: #6a6a6a; 
 }
 #footerwrap {	
-	background-color: #f8f8ff; 
+	background-color: rgba(125,122,119,0.90); 
+}
+#footer {	
+	color: #000000; 
+}
+#footer a {	
+	color: #ffffff; 
+}
+#footer a:hover {	
+	color: #d6593e; 
 }
