@@ -17,10 +17,19 @@ h2 {
 	background-color: #7d7a77; 
 }
 #header {	
-	color: rgba(125,143,123,0.78); 
+	color: #fc5e40; 
+}
+#header a {	
+	color: #fc5e40; 
 }
 #headerwrap.fixed-header, .transparent-header #headerwrap.fixed-header {	
 	background-color: rgba(125,121,118,0.51); 
+}
+.fixed-header #header {	
+	color: #fc5e40; 
+}
+.fixed-header #header a {	
+	color: #ffffff; 
 }
 #site-description {	display: none; 
 }
@@ -46,10 +55,10 @@ h2 {
 	color: #6a6a6a; 
 }
 #footerwrap {	
-	background-color: rgba(125,122,119,0.90); 
+	background-color: rgba(0,0,0,0.90); 
 }
 #footer {	
-	color: #000000; 
+	color: #ffffff; 
 }
 #footer a {	
 	color: #ffffff; 
@@ -57,3 +66,79 @@ h2 {
 #footer a:hover {	
 	color: #d6593e; 
 }
+@media screen and (max-width: 768px) { /* Themify Customize Styling */
+h1 {	
+	font-family:Open Sans; 
+}
+h2 {	
+	color: #4d4d4d; 
+}
+#headerwrap {	
+	background-color: #7d7a77; 
+}
+#header {	
+	color: #7d8f7b; 
+}
+#headerwrap.fixed-header, .transparent-header #headerwrap.fixed-header {	
+	background-color: #7d7976; 
+}
+#main-nav a:hover, #main-nav > li > a:hover {	
+	color: #545151; 
+}
+#main-nav .current_page_item a, #main-nav .current-menu-item a, #main-nav > .current_page_item > a, #main-nav > .current-menu-item > a {	
+	color: #fc5f41; 
+}
+#main-nav .current_page_item a:hover,  #main-nav .current-menu-item a:hover {	
+	color: #6a6a6a; 
+}
+#footerwrap {	
+	background-color: #7d7a77; 
+}
+#footer a {	
+	color: #ffffff; 
+}
+#footer a:hover {	
+	color: #d6593e; 
+}
+ }@media screen and (max-width: 480px) { /* Themify Customize Styling */
+h1 {	
+	font-family:Open Sans;	font-size:40px;
+ 
+}
+h2 {	
+	color: #4d4d4d; 
+}
+#headerwrap {	
+	background-color: #7d7a77; 
+}
+#header {	
+	color: #7d8f7b; 
+}
+#headerwrap.fixed-header, .transparent-header #headerwrap.fixed-header {	
+	background-color: #7d7976; 
+}
+#main-nav a, #main-nav > li > a {	
+	color: #1f1c1c; 
+}
+#main-nav a:hover, #main-nav > li > a:hover {	
+	color: #545151; 
+}
+#main-nav .current_page_item a, #main-nav .current-menu-item a, #main-nav > .current_page_item > a, #main-nav > .current-menu-item > a {	
+	color: #fc5f41; 
+}
+#main-nav .current_page_item a:hover,  #main-nav .current-menu-item a:hover {	
+	color: #6a6a6a; 
+}
+#footerwrap {	
+	background-color: #7d7a77; 
+}
+#footer {	
+	color: rgba(0,0,0,0.00); 
+}
+#footer a {	
+	color: #ffffff; 
+}
+#footer a:hover {	
+	color: #d6593e; 
+}
+ }
