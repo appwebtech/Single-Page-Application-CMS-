@@ -41,7 +41,7 @@ At the time of writing, WP powers close to 75 million websites. So what is WP an
 
 WP is a CMS that uses plugins, themes etc to enhance the functionality and usability within a website. It runs PHP in the BackEnd and HTML5 and CSS3. For the designers/developers who love to code less and output more SASS comes in really handy when coding locally via a private server; configurations can easily be used via XAMPP which runs Apache, PHP and MySQL, and you get direct access to your files via sublime, atom or whichever text editor is your favorite.  
 
-Many bloggers do use wordpress due to it's versatility and UX/UI customizability. When creating [this](http://kenyamanenos.com) blog, my intention was to have the user access trending news via a UXD/UED adherent platform. This would not only enhance the brand loyalty but would improve usability and ease of access across multi platforms. 
+Many blog designers do use WP CMS due to it's versatility and UX/UI customizability. When designing [this](http://kenyamanenos.com) blog for instance, my intention was to have the user access trending news via a UXD/UED adherent platform. This would not only enhance the brand loyalty but would improve usability and ease of access across multi platforms. 
 
 As technology advances, many firms are turning to online marketing for conversion rates. The reason is because many people are connected to the internet and still many more will be connected in future. The ability of mobile devices to accomodate HQ/HD images has had a huge impact in the marketing industry. 4K, 5K Ultra HD and the introduction of Retina screens is only the tip of the iceberg of the transformations we are yet to witness. 
 
@@ -60,7 +60,7 @@ As technology advances, many firms are turning to online marketing for conversio
 
 There is a reason as to why [Nike](http://www.nike.com/gb/en_gb/), [Cocacola](https://us.coca-cola.com/home/), [Katy Perry](http://www.katyperry.com/), [Jay Z](http://lifeandtimes.com/), [Beyoncè](http://www.beyonce.com/), [Android](https://www.android.com/), [Apple](http://www.apple.com/), [Ford](http://www.ford.com/) etc, use single page applications with parallax, ultra, float, peak or even split designs for their websites. I have used parallax design concept to create this mock-up. The conversion rates speak for themselves. They close more sales than other designs and above all, they are responsive. 
 
-As time passes, trends will change to more inclusive designs which favor innovative technological advancements of the time. In virtue of that observation I'll use this priviledge to add some captions of what the said web apps above are using at this present time.
+As time passes, trends will change to more inclusive designs which favor innovative technological advancements of the time. In virtue of that observation I'll use this priviledge as granted by [GitHub Cloud Services](https://cloud.github.com/) and [GitHub Enterprise](https://enterprise.github.com/home) (who have greatly enhanced software engineering) to add some captions of what the said web apps above are using as at the time of writing.
 
 ### Nike 
 ![Nike](https://cloud.githubusercontent.com/assets/20464709/22173813/e31a0d0a-dfcd-11e6-98ed-406ea2828d5d.png)
@@ -97,11 +97,11 @@ As time passes, trends will change to more inclusive designs which favor innovat
 
 As design trends change, marketing concepts are been inculcated online to enhance both customer and product centricity; although many a company claim to lean more on the former, the latter has been much more evident due to the upselling tactics employed. 
 
-When taking one of the [Marketing](https://www.coursera.org/account/accomplishments/certificate/3U94GKSQ3L) courses at [University of Pennsylvania ~ Wharton](https://online.wharton.upenn.edu/), I learned that consumer behavior and psychology will always go hand in hand with **commoditization** (technology-enabled product development), **smart customers** (technology-enabled information ﬂow) and other product centric approaches like **retail saturation** and **product virality** (fame/trendy/cool/stylish). Read [Viral Marketing](https://en.wikipedia.org/wiki/Viral_marketing).
+Whilst taking [Marketing](https://www.coursera.org/account/accomplishments/certificate/3U94GKSQ3L) course in the Business Foundations Specialization at [The Wharton School](https://online.wharton.upenn.edu/), I learned that consumer behavior and psychology will always go hand in hand with **Commoditization** (technology-enabled product development), **Smart customers** (technology-enabled information ﬂow) and other product centric approaches like **Retail saturation** and **Product virality** (fame/trendy/cool/stylish). See [Viral Marketing and How to Craft Contagious Content](https://www.coursera.org/learn/wharton-contagious-viral-marketing).
 
-The optimal or equilibrium point of **customer vs product centricity** can be measured with [google analytic website data](https://www.google.com/analytics/#?modal_active=none) if plotted as a function between customers reached and their satisfied needs. Insights in value chain disruption, collaborative consumption, matching of supply and demand together with democratization in access are also achieved. 
+The optimal or equilibrium point of **customer centricity vs product centricity** can be measured with [Google Analytics Data (GAD)](https://www.google.com/analytics/#?modal_active=none) if plotted as a function between customers reached and their satisfied needs. Insights in value chain disruption, collaborative consumption, matching of supply and demand, together with democratization in access can also be estimated with GAD. 
 
-By bringing your product or service to your target audience in a catchy professionally designed web application, you not only enhance your customer intimacy (customer responsiveness) but you differentiate yourself from your competitors creating performance superiority/seniority; and that will automatically trigger operational excellence (competence).
+By bringing your product or service to your target audience in a catchy professionally designed web application, you not only enhance your **customer intimacy** (customer responsiveness) but you **differentiate** yourself from your competitors creating **performance superiority/seniority**; and that will automatically trigger **operational excellence** (competence).
 
 ![customer_product_centric](https://cloud.githubusercontent.com/assets/20464709/22174195/bf139d6c-dfd8-11e6-99fa-05af450b18ee.jpeg)
 <hr>
@@ -118,7 +118,7 @@ Wordpress is an open-source [Content Management System (CMS)](https://en.wikiped
 
 Wordpress uses MySQL to manage it's DB's and PHP renders data from the server to the frontend. MySQL is an RDBMS and most of it's functionalities are open-source. It's a main component of [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) open-source web application software stack. 
 
-Below is a snapshot of the DB I used. It can be queried, searched and exported to other servers. That is the main reason I used SoC to have a reputable external source to process payments. Actually, [WooCommerce](https://woocommerce.com/) will not process payments but will direct them to be processed by [Paypal](https://www.paypal.com/).
+Below is a snapshot of the DB I used. It can be queried, searched and exported to other servers.
 <hr>
 ![screen shot 2017-01-21 at 13 17 07](https://cloud.githubusercontent.com/assets/20464709/22174331/1067170e-dfdc-11e6-9bec-e659d156d5e2.png)
 <hr>
@@ -142,7 +142,7 @@ As an open-source technology product, bugs within the WP CMS are fixed in a time
 Other CMS's like [Joomla](https://en.wikipedia.org/wiki/Joomla) and [Drupal](https://en.wikipedia.org/wiki/Drupal) are fantastic but WP beats them all due to the massive global community, plugins and themes. Some advanced technical sophistication would be required for Joomla and Drupal CMS's so to speak. 
  
 
-# Technologies used
+# Technologies & Design Methodology
 
 
 ## Parallax
