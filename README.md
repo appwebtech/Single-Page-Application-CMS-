@@ -41,7 +41,7 @@ At the time of writing, WP powers close to 75 million websites. So what is WP an
 
 WP is a CMS that uses plugins, themes etc to enhance the functionality and usability within a website. It runs PHP in the BackEnd and HTML5 and CSS3. For the designers/developers who love to code less and output more SASS comes in really handy when coding locally via a private server; configurations can easily be used via XAMPP which runs Apache, PHP and MySQL, and you get direct access to your files via sublime, atom or whichever text editor is your favorite.  
 
-Many blog designers do use WP CMS due to it's versatility and UX/UI customizability. When designing [this](http://kenyamanenos.com) blog for instance, my intention was to have the user access trending news via a UXD/UED adherent platform. This would not only enhance the brand loyalty but would improve usability and ease of access across multi platforms. 
+Many blog designers do use WP CMS due to it's versatility and UX/UI customizability. When designing [this](https://github.com/appwebtech/Single-Page-Application-CMS-) application for instance, my intention was to have the user access trending news via a UXD/UED adherent platform. This would not only enhance the brand loyalty but would improve usability and ease of access across multi platforms. 
 
 As technology advances, many firms are turning to online marketing for conversion rates. The reason is because many people are connected to the internet and still many more will be connected in future. The ability of mobile devices to accomodate HQ/HD images has had a huge impact in the marketing industry. 4K, 5K Ultra HD and the introduction of Retina screens is only the tip of the iceberg of the transformations we are yet to witness. 
 
